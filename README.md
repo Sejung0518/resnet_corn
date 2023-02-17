@@ -1,2 +1,2 @@
 # resnet_corn
-Classification of corns by ResNet
+Classification of corn images by ResNet
